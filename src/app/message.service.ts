@@ -12,5 +12,4 @@ export class MessageService {
   clear() {
     this.messages = [];
   }
-  constructor() { }
 }
